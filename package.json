@@ -1,7 +1,7 @@
 {
-  "name": "happy-birthday",
+  "name": "Happy-Birthday-Rashmiii",
   "version": "1.0.0",
-  "description": "An app that let's you say happy birthday to your friend in a nerdy way.",
+  "description": "An app that let's you say happy birthday to your loved one in a nerdy way.",
   "main": "index.js",
   "devDependencies": {
     "browser-sync": "^2.18.13",
@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
+    "url": "git+https://github.com/TechGreyMatters/Happy-Birthday-Rashmiii.git"
   },
   "keywords": [
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
+  "author": "GreyMatter's Tech",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
+    "url": "https://github.com/TechGreyMatters/Happy-Birthday-Rashmiii/issues"
   },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
+  "homepage": "https://github.com/TechGreyMatters/Happy-Birthday-Rashmiii#readme",
   "dependencies": {}
 }
