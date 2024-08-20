@@ -1,7 +1,7 @@
 {
   "greeting": "Hi",
   "name": "Rashmiii",
-  "greetingText": "How are you? btw!",
+  "greetingText": "This is not your birthday present—it's just a little something to make you smile today!",
   "wishText": "I will always be with you! ;)",
   "imagePath": "img/Untitled design.png",
   "text1": "It's your birthday!!! :D",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "This is not your birthday present—it's just a little something to make you smile today.\nThe real surprise is something I'll give you in person.\n\nOkay, now come back and tell me if you liked it.",
+  "outroText": "The real surprise is something I'll give you in person.\n\nOkay, now come back and tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
